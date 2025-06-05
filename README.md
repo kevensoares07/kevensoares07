@@ -69,7 +69,7 @@ const keven = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevensoares07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" src="/https://github-readme-stats.vercel.appapi?username=kevensoares07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevensoares07&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 
 </div>
