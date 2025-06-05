@@ -137,7 +137,7 @@ const keven = {
 | AWS Academy Cloud Foundation | Amazon AWS | 2024 |
 | HCA-5G.V2.0 Course | Huawei | 2024 |
 | Web API ASP.NET Core Essencial | Udemy | 2023 |
-| Adobe Premiere After Effects | AFTERLINK | 2023 |
+| Adobe Premiere After Effects | AFTERFLIX | 2023 |
 | NDG Linux Unhatched | Cisco | 2023 |
 | Empreendedorismo | Sebrae | 2022 |
 
